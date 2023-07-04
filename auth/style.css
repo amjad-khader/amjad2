@@ -1,0 +1,10 @@
+.sec-reg form{
+    margin-top: 100px !important;
+}
+.sec-reg form input{
+    width: 400px;
+    height: 45px;
+}
+.sec-reg img{
+    width: 100%;
+}
